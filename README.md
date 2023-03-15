@@ -23,7 +23,7 @@ If you are experiencing issues with Windows Defender flagging non-virus files, G
 
 If you have a question mark in your mind, you can contact me telegram : @edgeguard
 
-This video is for educational purpose only.
+
 -------------------------------------------------------------------
 This Tool is Designed To Protect Your Files
 Against Reverse-Engineers.
