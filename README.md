@@ -20,7 +20,7 @@ If you are experiencing issues with Windows Defender flagging non-virus files, G
 - Output : Fully Native
 - Features : Not Yet, Beta Release.
 
-If you have a question mark in your mind, you can contact me telegram : @edgeguard
+If you have a question mark in your mind, you can contact me telegram : @EGuardDeveloper
 
 
 -------------------------------------------------------------------
