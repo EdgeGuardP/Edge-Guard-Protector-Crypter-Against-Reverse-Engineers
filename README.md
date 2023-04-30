@@ -18,7 +18,7 @@ If you are experiencing issues with Windows Defender flagging non-virus files, G
 (Edge Guard)
 - Auto Update
 - Strong XOR Encryption
-- Supports .NET/Native
+- Supports Native
 - Output : Fully Native
 - Features : Not Yet, Beta Release.
 
