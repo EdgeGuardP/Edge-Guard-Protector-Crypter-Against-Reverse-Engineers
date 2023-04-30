@@ -1,6 +1,6 @@
 WEBSITE : https://edgeguard.business/
 
-Overview/Demo : https://www.youtube.com/watch?v=hTtSc4Y-WDw
+Overview/Demo : https://www.youtube.com/watch?v=bHlR9rBp6ks
 
 WHY EDGE GUARD?
 
@@ -32,3 +32,14 @@ This Tool Shouldn't Be Used For Malicous Purposes
 If You're Going to Use It As Malicous, You Bear The Full Responsibility.
 
 ![Untitled-1](https://user-images.githubusercontent.com/127977328/225380919-607a23ed-cf64-4c92-8975-884c6dbd49fa.jpg)
+
+
+[ NEW VERSION ] 4/29/2023
+
+![1](https://user-images.githubusercontent.com/127977328/235339826-b882a854-df19-42f3-848e-95501c9f2c1a.png)
+![2](https://user-images.githubusercontent.com/127977328/235339828-d0445bc9-be75-4942-ad61-e42a959c7628.png)
+![3](https://user-images.githubusercontent.com/127977328/235339831-1b59c748-d585-473a-86c1-96155f0cb6c0.png)
+![13](https://user-images.githubusercontent.com/127977328/235339833-7e3db522-aef1-42e4-a0b9-2df790dd6f39.png)
+![14](https://user-images.githubusercontent.com/127977328/235339834-f5ecb682-f86f-4e2c-b887-c7b71be244f5.png)
+![15](https://user-images.githubusercontent.com/127977328/235339836-7cfe78e2-0e62-493a-ae18-9ba80894bfcd.png)
+
