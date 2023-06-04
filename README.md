@@ -7,7 +7,7 @@
 |-----------------|---------|
 | Private Stub Coded From Scratch [ C/Golang ] | ✔ | 
 | Auto Update  | ✔ | 
-| Strong XOR Encryption | ✔ | 
+| Strong XOR Encryption / AES | ✔ | 
 | Supports Native Files Only. [ Like Remcos RAT ]   | ✔  | 
 | Startup   | ✔ |
 | AntiMemoryScan   | ✔ | 
