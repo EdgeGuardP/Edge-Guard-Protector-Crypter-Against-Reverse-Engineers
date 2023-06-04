@@ -1,14 +1,41 @@
-https://edgeguard.business/eset.mp4
-https://edgeguard.business/bypassavira.mp4
-https://edgeguard.business/bypasscomodofirewall.mp4
-https://edgeguard.business/bypasskasperskyendpoint.mp4
-https://edgeguard.business/bypasspandaantivirus.mp4
-https://edgeguard.business/bypassquickhealpro.mp4
-https://edgeguard.business/bypasssophosendpoint.mp4
+
+---
+
+## Features
+
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| Private Stub Coded From Scratch [ C/Golang ] | ✔ | 
+| Auto Update  | ✔ | 
+| Strong XOR Encryption | ✔ | 
+| Supports Native Files Only. [ Like Remcos RAT ]   | ✔  | 
+| Startup   | ✔ |
+| AntiMemoryScan   | ✔ | 
+| Bypass Avast Sandbox | ✔ | 
+| More.  | ✔ |
+
+
+---
+
+---
+
+## Bypass Videos
+
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| https://edgeguard.business/eset.mp4 | ✔ | 
+| https://edgeguard.business/bypassavira.mp4  | ✔ | 
+| https://edgeguard.business/bypasscomodofirewall.mp4 | ✔ | 
+| https://edgeguard.business/bypasskasperskyendpoint.mp4   | ✔  | 
+| https://edgeguard.business/bypasspandaantivirus.mp4  | ✔ |
+| https://edgeguard.business/bypassquickhealpro.mp4  | ✔ | 
+| https://edgeguard.business/bypasssophosendpoint.mp4 | ✔ | 
+| More.  | ✔ |
+
+
+---
 
 WEBSITE : https://edgeguard.business/
-
-Overview/Demo : https://www.youtube.com/watch?v=bHlR9rBp6ks
 
 WHY EDGE GUARD?
 
@@ -21,14 +48,6 @@ Outdated Virus Definitions: Windows Defender uses virus definitions or signature
 Potentially Unwanted Programs: Some software programs, such as adware or toolbars, are not technically viruses, but they can still be considered unwanted. Windows Defender may flag these programs as potentially unwanted and remove them.
 User Error: It is also possible that the file was infected with a virus or malware, but the user may not be aware of it. In this case, Windows Defender is simply doing its job by detecting and removing the threat.
 If you are experiencing issues with Windows Defender flagging non-virus files, GOOD NEWS!,  You Can Use EDGE GUARD, Which is Updating All The Time, And Help You To Manage this Problem.
-
-
-(Edge Guard)
-- Auto Update
-- Strong XOR Encryption
-- Supports Native Files Only. [ Like Remcos RAT ]
-- Output : Fully Native
-- Features : Not Yet, Beta Release.
 
 If you have a question mark in your mind, you can contact me telegram : @edgeguard
 
